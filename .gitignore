@@ -1,0 +1,8 @@
+# KiCad: backup, lock, dan cache lokal
+*-backups/
+*.lck
+fp-info-cache
+*.bak
+*.bck
+_autosave-*
+*.kicad_prl
